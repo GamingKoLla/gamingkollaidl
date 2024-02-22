@@ -23,7 +23,7 @@ var username2 = process.env.username2;
 var password2 = process.env.password2;
 var shared_secret2 = process.env.shared2;
 
-var games2 = [700330, 1782380, 766570, 235900, 1557990, 1280770, 813820, 1822460, 1904820, 2273550, 1241100];  // Enter here AppIDs of the needed games
+var games2 = [461040, 878760, 596350, 1869590, 1310520, 565080, 1506600, 2431660, 2353760, 513000, 1184140];  // Enter here AppIDs of the needed games
 var status2 = 7;  // 1 - online, 7 - invisible
 
 
