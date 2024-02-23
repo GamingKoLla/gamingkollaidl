@@ -23,8 +23,8 @@ var username2 = process.env.username2;
 var password2 = process.env.password2;
 var shared_secret2 = process.env.shared2;
 
-var games2 = [1560500, 1969870, 1412190, 581840, 1648300, 80, 100, 223750, 2293410, 920490, 1665460];  // Enter here AppIDs of the needed games
-var status2 = 7;  // 1 - online, 7 - invisible
+var games2 = [294420, 271590, 730, 578080, 1938090, 12210, 2073850, 1928420, 218620, 2240000, 2487070];  // Enter here AppIDs of the needed games
+var status2 = 1;  // 1 - online, 7 - invisible
 
 
 user2 = new steamUser();
